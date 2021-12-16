@@ -37,15 +37,13 @@ Named function buildQuiz to store the HTML output.
 Set function for each question myQuestions.forEach with currentQuestion and questionNumber which asnwers to be stored in variable 'answers'. 
 Also we will add radio button use the 'answer' those are stored in HTML file and we do the same with questions and its answers. 
 We will have to combine our output and put it on the page. 
-
 [!alt text](https://github.com/AndyNg0712/Coursework-week4/blob/main/assets/images/function-buildquiz.png?raw=true)
 
 Set showResult function: 
 We create Var answerContainers to select all the correct answers and keep track with the user's answer for eeach question. 
 Create userAnswer varible to select all the answers from the user and base on user's answer
 If the answer is correct then it will add all up together, else it will not add to the result. 
-show the total correct answer
-
+show the total correct answer.
 [!alt text](https://github.com/AndyNg0712/Coursework-week4/blob/main/assets/images/show-result.png?raw=true)
 
 Set showSlide function and all the buttons to interact with each other
@@ -74,7 +72,7 @@ Set Event Listener:
 1 - nextButton with 'click' event to go next question.
 2 - previousButton with 'click' event to go back previous questions 
 3 - submitButton with 'click' event to showResult at the end of questions. 
-[!alt text]() -button event listener. 
+[!alt text](https://github.com/AndyNg0712/Coursework-week4/blob/main/assets/images/buttons-eventListener.png?raw=true) -button event listener. 
 
 [!alt text](https://github.com/AndyNg0712/Coursework-week4/blob/main/assets/images/index-full.png?raw=true)
 
