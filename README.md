@@ -72,7 +72,7 @@ Set Event Listener:
 1 - nextButton with 'click' event to go next question.
 2 - previousButton with 'click' event to go back previous questions 
 3 - submitButton with 'click' event to showResult at the end of questions. 
-[!alt text](https://github.com/AndyNg0712/Coursework-week4/blob/main/assets/images/buttons-eventListener.png?raw=true) -button event listener. 
+[!alt text](https://github.com/AndyNg0712/Coursework-week4/blob/main/assets/images/buttons-eventListener.png?raw=true)
 
 [!alt text](https://github.com/AndyNg0712/Coursework-week4/blob/main/assets/images/index-full.png?raw=true)
 
