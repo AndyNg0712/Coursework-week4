@@ -80,8 +80,9 @@ live index.html
 https://andyng0712.github.io/Coursework-week4/
 
 to clone: 
-using https
+Using https:
 https://github.com/AndyNg0712/Coursework-week4.git
-using ssh
+
+Using ssh:
 git@github.com:AndyNg0712/Coursework-week4.git
 
